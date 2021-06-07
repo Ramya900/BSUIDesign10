@@ -1,0 +1,220 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.mainDiv {
+    background-color: #e0dcd2;
+    padding-left: 3rem;
+}
+
+.navv1 {
+    padding-top: 2rem;
+    background-color: #e0dcd2 !important;
+}
+
+.btt1 {
+    padding-left: 70rem;
+}
+
+.btt2 {
+    padding: 0.5rem 1.5rem;
+    border-radius: 1rem;
+    background-color: blueviolet !important;
+}
+
+.col11 {
+    padding-top: 2.7rem;
+}
+
+.para1 {
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 2px;
+    padding: 2rem 0;
+}
+
+.div4 {
+    border-radius: 0.7rem;
+    width: 95%;
+    background-color: white;
+    padding: 0.7rem 0.2rem 0.5rem 0.5rem;
+}
+
+.para2{
+    padding-top: 0.5rem;
+    font-size: 18px;
+}
+
+.img1 {
+    margin-left: 0.5rem;
+    width: 30px;
+}
+
+.btn11 {
+    border-radius: 0.6rem;
+    padding: 0.6rem 1.5rem;
+    color: white;
+    font-size: 18px;
+    background-color: blueviolet;
+}
+
+.para3 {
+    padding-top: 3rem;
+    font-size: 20px;
+}
+
+.img2 {
+    padding: 2rem 1rem 3.3rem 1rem;
+    width: 80px;
+}
+
+.mainImg {
+    padding-top: 7rem;
+    width: 80%;
+}
+
+
+@media (min-width:360px) and (max-width:640px) {
+
+    .mainDiv {
+        padding-left: 0.5rem;
+    }
+
+    .navbar-brand {
+        font-size: 18px !important;
+    }
+
+    .btt2 {
+        font-size: 14px;
+    }
+
+    .btt1 {
+        font-size: 18px;
+        padding-left: 0.1rem;
+    }
+
+    .div3 {
+        padding-left: 0.7rem;
+    }
+
+    .display-4 {
+        font-size: 1.8rem !important;
+    }
+
+    .col11 {
+        padding-top: 2rem;
+    }
+
+    .para1 {
+        padding-top: 1rem;
+        letter-spacing: 1px;
+        padding-bottom: 1rem;
+        font-size: 13px;
+    }
+
+    .div4 {
+        border-radius: 0.3rem;
+        width: 98%;
+        padding: 0.2rem 0.2rem 0.3rem 0.5rem;
+    }
+    
+    .para2{
+        padding-top: 0.5rem;
+        font-size: 10px;
+    }
+    
+    .img1 {
+        margin-left: 0.5rem;
+        width: 15px;
+    }
+    
+    .btn11 {
+        border-radius: 0.3rem;
+        padding: 0.4rem 1rem;
+        font-size: 12px;
+    }
+
+    .col123 {
+        padding-top: 0.5rem;
+    }
+
+    .para3 {
+        padding-top: 2rem;
+        font-size: 15px;
+    }
+    
+    .img2 {
+        padding: 1rem 0.5rem 1rem 0.4rem;
+        width: 40px;
+    }
+    
+    .mainImg {
+        padding-top: 3rem;
+        padding-bottom: 1rem;
+        width: 80%;
+    }
+
+}
+
+@media (min-width:768px) and (max-width:1024px) {
+    .mainDiv {
+        padding-left: 3rem;
+    }
+
+    .display-4 {
+        font-size: 3rem !important;
+    }
+
+    .col11 {
+        padding-top: 3rem;
+    }
+
+    .para1 {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        line-height: 2;
+        font-size: 18px;
+    }
+
+    .div4 {
+        border-radius: 0.8rem;
+        width: 90%;
+    }
+    
+    .para2{
+        padding-top: 0.5rem;
+        font-size: 14px;
+    }
+    
+    .img1 {
+        margin-left: 0.5rem;
+        width: 18px;
+    }
+    
+    .btn11 {
+        border-radius: 0.7rem;
+        padding: 0.4rem 1.8rem;
+        font-size: 15px;
+    }
+
+    .col123 {
+        padding-top: 0.2rem;
+    }
+
+    .para3 {
+        padding-top: 3rem;
+        font-size: 20px;
+    }
+    
+    .img2 {
+        padding: 1rem 1.5rem 1rem 0.4rem;
+        width: 73px;
+    }
+    
+    .mainImg {
+        padding-top: 3rem;
+        padding-bottom: 1rem;
+        width: 80%;
+    }
+
+}
